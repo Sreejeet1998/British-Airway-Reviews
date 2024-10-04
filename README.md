@@ -1,7 +1,8 @@
 # British Airways Reviews Sentiment Analysis
 
 This project focuses on analyzing customer reviews of British Airways to determine sentiment, identify common themes, and provide insights into customer satisfaction. Using natural language processing (NLP) techniques, the project aims to categorize reviews into positive, negative, or neutral sentiment and highlight key areas for improvement.
-Features
+
+# Features
 
     Data Preprocessing: Cleans and preprocesses the review data, removing stopwords, tokenizing text, and handling missing values.
     Sentiment Analysis: Uses NLP techniques to classify reviews as positive, negative, or neutral.
